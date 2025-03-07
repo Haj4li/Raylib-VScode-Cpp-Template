@@ -53,7 +53,7 @@ Terminal > Run Task > Build (Debug)
 
 # Via VS Code Task
 Terminal > Run Task > Build (Release)
-
+```
 ## 📂 Project Structure
 ```
 .
