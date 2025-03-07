@@ -50,7 +50,7 @@ A ready-to-use Visual Studio Code template for C++ game development with Raylib.
 Terminal > Run Task > Build (Debug)
 
 ### Release Build (Optimized)
-```bash
+
 # Via VS Code Task
 Terminal > Run Task > Build (Release)
 
