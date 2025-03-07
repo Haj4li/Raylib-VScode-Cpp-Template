@@ -40,7 +40,7 @@ A ready-to-use Visual Studio Code template for C++ game development with Raylib.
 
 - [VS Code](https://code.visualstudio.com/)
 - [C++ Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-extension-pack)
-- [Raylib] (https://www.raylib.com/)
+- [Raylib](https://www.raylib.com/)
 
 ## 🛠 Building the Project
 
